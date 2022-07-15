@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TextAPIservice", "TextAPIservice\", "{B4E0682D-A21C-4BE1-A3DA-9CDCCA1D6B51}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_62312"
+		Debug.AspNetCompiler.PhysicalPath = "TextAPIservice\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62312\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_62312"
+		Release.AspNetCompiler.PhysicalPath = "TextAPIservice\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62312\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "62312"
+		SlnRelativePath = "TextAPIservice\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextConsoleApplication", "TextConsoleApplication\TextConsoleApplication.csproj", "{23CA7058-6EFC-473B-8C49-51DF25AB04E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4E0682D-A21C-4BE1-A3DA-9CDCCA1D6B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E0682D-A21C-4BE1-A3DA-9CDCCA1D6B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E0682D-A21C-4BE1-A3DA-9CDCCA1D6B51}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E0682D-A21C-4BE1-A3DA-9CDCCA1D6B51}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{23CA7058-6EFC-473B-8C49-51DF25AB04E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23CA7058-6EFC-473B-8C49-51DF25AB04E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23CA7058-6EFC-473B-8C49-51DF25AB04E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23CA7058-6EFC-473B-8C49-51DF25AB04E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5EB82A4-90D3-49CD-BBDE-0CE336F8F001}
+	EndGlobalSection
+EndGlobal
